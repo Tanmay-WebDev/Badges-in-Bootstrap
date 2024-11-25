@@ -1,0 +1,13 @@
+.container{
+    border: 10px solid;
+    color: black;
+    background-color: rgb(233, 222, 207);
+    border-radius: 30px;
+}
+
+img{
+    width: 400px;
+    border: 10px ridge black;
+    background-color: rgb(124, 78, 17);
+    border-radius: 30px;
+}
